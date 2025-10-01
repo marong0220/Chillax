@@ -46,7 +46,7 @@
     --background-image: var(--wallpaper);
     --bg-opacity: 100%;
     /*bg dev suggestions*/
-    --wallpaper: url("https://warrayquipsome.github.io/Chillax/Wallpapers/chillax-default.png");
+    --wallpaper: url("https://media.discordapp.net/attachments/1302672807863255050/1422919640606310482/b7c805e6ec6b5969.jpg?ex=68de6cae&is=68dd1b2e&hm=7d62e59c2ef005dac96af55986828a946e0ed4740c1547888d27ba6e8bf55afb&=&format=webp&width=1522&height=856");
     /*modern background selection*/
     --modern-dark-bg: url("https://warrayquipsome.github.io/Chillax/Wallpapers/modern-dark-bg.png");
     --modern-light-bg: url("https://warrayquipsome.github.io/Chillax/Wallpapers/modern-light-bg.png");
@@ -102,7 +102,7 @@
     /* chillax colours rgb */
     --accentcolor: 251, 84, 84;
     /* chillax colours hex */
-    --accentcolorV2: #fb5454;
+    --accentcolorV2: #54fb8c;
 
 
     /* settings modal root */
