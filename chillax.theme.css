@@ -46,9 +46,9 @@
     --background-image: var(--wallpaper);
     --bg-opacity: 100%;
     /*bg dev suggestions*/
-    --wallpaper: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.naver.com%2Fkimnuna_%2F222276668930&psig=AOvVaw04t8BzGElUV3WR2XXGeDT3&ust=1761127729200000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKiP4ZqGtZADFQAAAAAdAAAAABAL");
+    --wallpaper: url("https://i.pinimg.com/736x/d6/91/e2/d691e2b18046899790cdbf3364f4dba4.jpg");
     /*modern background selection*/
-    --modern-dark-bg: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.naver.com%2Fkimnuna_%2F222276668930&psig=AOvVaw04t8BzGElUV3WR2XXGeDT3&ust=1761127729200000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKiP4ZqGtZADFQAAAAAdAAAAABAL");
+    --modern-dark-bg: url("https://i.pinimg.com/736x/d6/91/e2/d691e2b18046899790cdbf3364f4dba4.jpg");
     --modern-light-bg: url("https://warrayquipsome.github.io/Chillax/Wallpapers/modern-light-bg.png");
 }
 
