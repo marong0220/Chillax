@@ -42,13 +42,13 @@
 
 /*Chillax Roots*/
 :root {
-    /*background image*/ /*(replace the link to use)*/
+    /*background image*/ /*(https://i.pinimg.com/736x/d6/91/e2/d691e2b18046899790cdbf3364f4dba4.jpg)*/
     --background-image: var(--wallpaper);
     --bg-opacity: 100%;
     /*bg dev suggestions*/
-    --wallpaper: url("file:///C:/Users/mm950/Downloads/%EC%A0%9C%EB%AA%A9%EC%9D%84%20%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94.%20(11).png");
+    --wallpaper: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.naver.com%2Fkimnuna_%2F222276668930&psig=AOvVaw04t8BzGElUV3WR2XXGeDT3&ust=1761127729200000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKiP4ZqGtZADFQAAAAAdAAAAABAL");
     /*modern background selection*/
-    --modern-dark-bg: url("file:///C:/Users/mm950/Downloads/%EC%A0%9C%EB%AA%A9%EC%9D%84%20%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94.%20(11).png");
+    --modern-dark-bg: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.naver.com%2Fkimnuna_%2F222276668930&psig=AOvVaw04t8BzGElUV3WR2XXGeDT3&ust=1761127729200000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKiP4ZqGtZADFQAAAAAdAAAAABAL");
     --modern-light-bg: url("https://warrayquipsome.github.io/Chillax/Wallpapers/modern-light-bg.png");
 }
 
